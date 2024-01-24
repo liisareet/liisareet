@@ -2,6 +2,7 @@
 <p align="center">
 </p>
 
+
 - 🦾 Currently working in Scoro as a project manager
 - 🌱 Learning Data Analytics in Turing College
 - 🌮 Huge foodie and a gym rat 🏋🏼‍♀️
