@@ -7,7 +7,7 @@
 
 
 - 🦾 Currently working in Scoro as a project manager
-- 🌱 Learning and diving inot Data Analytics in Turing College
+- 🌱 Learning and diving head first into Data Analytics in Turing College
 - 🐍 Beginner enthusiast of Python
 - 🌮 Huge foodie and a gym rat 🏋🏼‍♀️
 - 💬 Ask me about anything! 
