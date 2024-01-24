@@ -3,6 +3,9 @@
 </p>
 
 
+![b43a9a78438313a7d2d8e6dfcaef8e8d](https://github.com/liisareet/liisareet/assets/137376460/f70aeb22-0689-4ba8-a0fa-3dd485e563e5)
+
+
 - 🦾 Currently working in Scoro as a project manager
 - 🌱 Learning and diving inot Data Analytics in Turing College
 - 🐍 Beginner enthusiast of Python
