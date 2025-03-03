@@ -6,8 +6,8 @@
 ![b43a9a78438313a7d2d8e6dfcaef8e8d](https://github.com/liisareet/liisareet/assets/137376460/f70aeb22-0689-4ba8-a0fa-3dd485e563e5)
 
 
-- 🦾 Currently working in Scoro as a project manager
-- 🌱 Learning and diving head first into Data Analytics in Turing College
+- 🦾 Currently working in Telia as a marketing analyst
+- 🌱 Continuing my studies in Data Science
 - 🐍 Beginner enthusiast of Python
 - 🌮 Huge foodie and a gym rat 🏋🏼‍♀️
 - 💬 Ask me about anything! 
